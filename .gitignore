@@ -1,0 +1,29 @@
+# Segredos e dados: nunca sobem
+.env
+*.env
+config_kanban.json
+config_robo.json
+ultimo_login.json
+preferencias_commits.json
+historico_qualidade.csv
+historico_acoes.jsonl
+perfil_*/
+relatorios/
+*.xlsx
+*.xls
+*.csv
+*.log
+*.log.antigo
+*.db
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+dist/
+*.spec
+*.mp4
+*.mov
+*.mkv
+*.avi
